@@ -18,4 +18,5 @@
 1. فایل‌های index.html و style.css را دانلود کنید
 2. در یک پوشه قرار دهید
 3. فایل index.html را در مرورگر باز کنید
+   https://mahshidzivari.github.io/digital-resume/
 
